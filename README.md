@@ -34,7 +34,8 @@ Welcome to my first in-depth IT tutorial! To begin we will have to create a Virt
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![{9002B2B9-5DEA-4CD5-821A-A19DC152D631}](https://github.com/user-attachments/assets/a7855dda-aa7e-4447-b3f6-5f914ad34b9f)
+/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
