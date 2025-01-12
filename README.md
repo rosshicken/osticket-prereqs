@@ -34,7 +34,9 @@ Welcome to my first in-depth IT tutorial! To begin we will have to create a Virt
 <br />
 
 <p>
-<img ![{9002B2B9-5DEA-4CD5-821A-A19DC152D631}](https://github.com/user-attachments/assets/a7855dda-aa7e-4447-b3f6-5f914ad34b9f)
+![{0688A610-4105-464F-8066-A54FBDA1CA25}](https://github.com/user-attachments/assets/6b87675f-c62e-4680-91b8-774856dc15bd)
+
+
 />
 </p>
 <p>
